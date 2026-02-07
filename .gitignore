@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# OAuth credentials and tokens (sensitive)
+credentials.json
+token.json
+
+# Downloaded files
+downloads/
+
+# Environment
+.env
+
+# OS files
+.DS_Store
